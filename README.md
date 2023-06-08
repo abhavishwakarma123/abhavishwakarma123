@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhavishwakarma123
-- 👀 I’m interested in Physics, with an inclinaiton towards special relativity.
-- 🌱 I’m currently learning Optics, Special Relativity, Quantum Mehanics and Statistical Mechanics. I'm also learning Computational Physics to make use of programming to learn physics.
-- 💞️ I’m looking to collaborate on any projects on special relativity, like a reading or computational project. 
+- 👀 I’m interested in Astrophysics, more specifically in applications of General Relativity in Astrophics.
+- 🌱 I’m currently learning about Common Envelope Evolution and Galaxy Groups. Hence I'm also interested in Cosmology. Hit me up if you would like to discuss science with me!
 - 📫 Reach me at abha.vishwakarma@niser.ac.in
 
 <!---
